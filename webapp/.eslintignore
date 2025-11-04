@@ -1,0 +1,4 @@
+# Ignore Kotlin-generated JavaScript files
+src/kotlin/*.js
+src/kotlin/*.js.map
+
